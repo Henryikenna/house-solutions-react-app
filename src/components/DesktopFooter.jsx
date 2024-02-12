@@ -28,65 +28,65 @@ function DesktopFooter() {
 
         <div className=" gap-10 flex justify-between">
           <section className="">
-            <h3 className=" text-xl text-[#FFFFFF80] font-semibold mb-4">
+            <h3 className=" text-lg text-[#FFFFFF80] font-semibold mb-4">
               Company
             </h3>
 
-            <h5 className=" text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className=" text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
           </section>
           <section className="">
-            <h3 className=" text-xl text-[#FFFFFF80] font-semibold mb-4">
+            <h3 className=" text-lg text-[#FFFFFF80] font-semibold mb-4">
               Company
             </h3>
 
-            <h5 className=" text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className=" text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
           </section>
           <section className="">
-            <h3 className=" text-xl text-[#FFFFFF80] font-semibold mb-4">
+            <h3 className=" text-lg text-[#FFFFFF80] font-semibold mb-4">
               Company
             </h3>
 
-            <h5 className=" text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className=" text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
-            <h5 className="text-base text-[#FFFFFF80] font-normal mb-2">
+            <h5 className="text-[0.9rem] text-[#FFFFFF80] font-normal mb-2">
               About Us
             </h5>
           </section>

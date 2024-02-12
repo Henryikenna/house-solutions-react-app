@@ -48,21 +48,21 @@ function MobileMidSection({numbersList}) {
       </div>
 
       <div className=" mx-11 my-8 flex items-center justify-between md:hidden">
-        <h3 className="text-[0.46875rem] font-medium">Previous</h3>
+        <h3 className="text-[0.46875rem] font-medium md:text-xs">Previous</h3>
 
         <div className="flex gap-3 items-center ">
           {numbersList.map((item) => (
             <h4
               className={`${
                 item == 12 && "selectedNumber"
-              } text-[0.46875rem] text-[#999CA0]`}
+              } text-[0.46875rem] text-[#999CA0] md:text-xs`}
             >
               {item}
             </h4>
           ))}
         </div>
 
-        <h3 className="text-[0.46875rem] font-medium">Next</h3>
+        <h3 className="text-[0.46875rem] font-medium md:text-xs">Next</h3>
       </div>   
     </>
   )

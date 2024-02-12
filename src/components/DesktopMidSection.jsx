@@ -39,7 +39,7 @@ function DesktopMidSection({numbersList, categoryItemsList}) {
           </div>
         </div>
 
-        <div className=" flex flex-col gap-10 ">
+        <div className=" w-[70%] flex flex-col gap-10 ">
           <div className="flex flex-wrap gap-5">
             <DesktopItemBox item={"Kitchen Appliances"} />
             <DesktopItemBox item={"Kitchen Appliances"} />
